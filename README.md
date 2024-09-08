@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ZSH Setup COnfiguration Pro with Pokemon Color Scripts</h1>
+  <h1>ZSH Setup Configuration Pro with Pokemon Color Scripts</h1>
 </div>
 
 <div align="center">
